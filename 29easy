@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Array</title>
+</head>
+<body>
+    <h1>My Favorite Books</h1>
+
+    <script>
+        const books = [
+            "Harry Potter",
+            "The Hobbit",
+            "The Lord of the Rings",
+            "The Little Prince",
+            "Alice in Wonderland"
+        ];
+
+        console.log(books[1]);
+    </script>
+</body>
+</html>
